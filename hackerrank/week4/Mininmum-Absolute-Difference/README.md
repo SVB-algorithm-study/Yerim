@@ -1,0 +1,1 @@
+The absolute difference is the positive difference between two values and , is written or and they are equal. If and , . Given an array of integers, find the minimum absolute difference between any two elements in the array.
